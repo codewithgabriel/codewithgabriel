@@ -85,6 +85,6 @@ I am always looking for exciting opportunities to apply my skills in innovative 
 
 ## 📫 Contact Me:
 - **Email:** olatoyeolaide@gmail.com
-- **LinkedIn:** [](https://linkedin.com/in/olatoye-olaide-gabriel-961b591b0)
+- **LinkedIn:** [Olaide Gabriel](https://linkedin.com/in/olatoye-olaide-gabriel-961b591b0)
 
 Let's build something amazing together!
