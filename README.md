@@ -16,7 +16,7 @@ Throughout my journey, I have worked on a wide range of projects, from developin
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 - **Libraries & Tools:**  
   ![React](https://img.shields.io/badge/React-%2320232A.svg?&style=flat&logo=react&logoColor=%2361DAFB)
   ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
@@ -25,6 +25,7 @@ Throughout my journey, I have worked on a wide range of projects, from developin
 ### Backend Development:
 - **Languages & Frameworks:**  
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white)
+  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
 - **Frameworks:**  
