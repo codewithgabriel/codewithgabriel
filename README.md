@@ -21,15 +21,18 @@ Throughout my journey, I have worked on a wide range of projects, from developin
   ![React](https://img.shields.io/badge/React-%2320232A.svg?&style=flat&logo=react&logoColor=%2361DAFB)
   ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 ### Backend Development:
 - **Languages & Frameworks:**  
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white)
-  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
 - **Frameworks:**  
-  Django, Flask
+  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
+  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ### Blockchain Development:
 - **Smart Contracts:**  
