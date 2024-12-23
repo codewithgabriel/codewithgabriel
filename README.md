@@ -16,6 +16,7 @@ Throughout my journey, I have worked on a wide range of projects, from developin
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 - **Libraries & Tools:**  
   ![React](https://img.shields.io/badge/React-%2320232A.svg?&style=flat&logo=react&logoColor=%2361DAFB)
   ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
