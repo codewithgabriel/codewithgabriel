@@ -3,7 +3,7 @@
 
 ### 💻 Full Stack Developer | Blockchain Enthusiast | Machine Learning Researcher | Android Developer
 
-I'm a **self-taught programmer** with a passion for technology, innovation, and continuous learning. Since the age of 19, I have been developing my expertise in **front-end**, **back-end**, **blockchain**, and **machine learning** technologies. 
+I'm a self-taught programmer with a passion for technology, innovation, and continuous learning. Since the age of 19, I have been developing my expertise in **front-end**, **back-end**, **blockchain**, and **machine learning** technologies. 
 
 Throughout my journey, I have worked on a wide range of projects, from developing responsive web applications to building smart contracts and training machine learning models.
 
