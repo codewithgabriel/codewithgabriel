@@ -73,7 +73,7 @@ Throughout my journey, I have worked on a wide range of projects, from developin
 ---
 
 ## 📜 Research & Academic Contributions:
-- Published **4 research papers** in collaboration with my academic supervisor, focusing on the intersection of technology and innovation. My work includes contributions to **machine learning** and its practical applications in various fields.
+Published **4 research papers** in collaboration with my academic supervisor, focusing on the intersection of technology and innovation. My work includes contributions to **machine learning** and its practical applications in various fields.
   
 ---
 
@@ -89,7 +89,7 @@ I am always looking for exciting opportunities to apply my skills in innovative 
 ---
 
 ## 📫 Contact Me:
-- **Email:** olatoyeolaide@gmail.com
-- **LinkedIn:** [Olaide Gabriel](https://linkedin.com/in/olatoye-olaide-gabriel-961b591b0)
+**Email:** olatoyeolaide@gmail.com
+**LinkedIn:** [Olaide Gabriel](https://linkedin.com/in/olatoye-olaide-gabriel-961b591b0)
 
 Let's build something amazing together!
