@@ -78,7 +78,7 @@ Published **4 research papers** in collaboration with my academic supervisor, fo
 ---
 
 ## 🧠 Interests:
-- **Quantum Mechanics & Cosmology:**  
+**Quantum Mechanics & Cosmology:**  
   In my spare time, I enjoy exploring the mysteries of the universe, studying quantum mechanics and astrophysics.
 
 ---
