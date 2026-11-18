@@ -1,95 +1,48 @@
+# Olaide Gabriel Olatoye
 
-# 👋 Hello! I'm Olaide Gabriel
+**Full Stack & Platform Engineer | Backend Systems | Applied AI**
 
-### 💻 Full Stack Developer | Blockchain Enthusiast | Machine Learning Researcher | Android Developer
+I build and operate web platforms: backend APIs, frontend interfaces, payment verification, databases, deployment automation and production reliability. My core stack is TypeScript, React, Next.js, Node.js, PHP and Python.
 
-I'm a self-taught programmer with a passion for technology, innovation, and continuous learning. Since the age of 19, I have been developing my expertise in **front-end**, **back-end**, **blockchain**, and **machine learning** technologies. 
+## Engineering experience
 
-Throughout my journey, I have worked on a wide range of projects, from developing responsive web applications to building smart contracts and training machine learning models.
+- **Know the Blocks Maven (KBM):** Platform Lead across eight production web properties. I build Moodle extensions, server-verified checkout and enrollment, course-aware AI tools, document-to-course imports and separate KBM/Wamido deployments.
+- **ACAIR:** Lead Software Engineer across learning and campus platforms, including CNS Courseware, student/admin applications, payment APIs, custom themes and release automation.
+- **Earlier work:** Node.js/TypeScript services and tutor matching at Tayari.Live; trading dashboards and market-data APIs at TeraAI.
 
----
+## Selected work
 
-## 🛠️ Technologies & Skills
+| Project | What I built |
+| --- | --- |
+| [Sigmant](https://devgabby.vercel.app/projects/sigmant) | Trading research and engineering: market data, model evaluation, typed AI tools and controlled execution proposals. |
+| [KBM / Wamido LMS](https://devgabby.vercel.app/projects/kbm-wamido-lms) | Learning platforms, Moodle extensions, payment-to-enrollment flows, AI tutoring and operations. |
+| [InkWell](https://devgabby.vercel.app/projects/inkwell) | Rust/Tauri desktop tooling for document processing, accepted DOCX edits and PDF preparation. |
+| [MLGuard](https://github.com/codewithgabriel/mlguard) | Intrusion-detection prototype with feature preprocessing, model inference and a monitoring dashboard. |
+| [Tutor matching](https://github.com/codewithgabriel/tutor_recommendation_system_v2) | Embedding retrieval with learner eligibility filters and service integration. |
 
-### Frontend Development:
-- **Languages & Frameworks:**  
-  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
-  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-- **Libraries & Tools:**  
-  ![React](https://img.shields.io/badge/React-%2320232A.svg?&style=flat&logo=react&logoColor=%2361DAFB)
-  ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+## Tools I use
 
-### Backend Development:
-- **Languages & Frameworks:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
-- **Frameworks:**  
-  [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-  [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+- **Applications:** TypeScript, JavaScript, React, Next.js, Node.js, Express, PHP, Laravel, Moodle, Python, FastAPI.
+- **Data and delivery:** PostgreSQL, MySQL/MariaDB, MongoDB, Redis, Docker, Linux, Nginx, GitHub Actions, Bash.
+- **Applied AI:** retrieval, embeddings, tool-calling assistants, scikit-learn, XGBoost, PyTorch and model evaluation.
+- **Additional languages:** Rust and Java.
 
-### Blockchain Development:
-- **Smart Contracts:**  
-  Solidity
-- **Experience:**  
-  Developing decentralized applications (dApps) and writing secure smart contracts
+## Research
 
-### Machine Learning:
-- **Algorithms:**  
-  Traditional ML, CNN, ANN, NLP
-- **Frameworks & Tools:**  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat&logo=keras&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=flat&logo=opencv&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFAA00.svg?&style=flat&logo=hugging-face&logoColor=white)
+First Class B.Sc. Computer Science, LAUTECH; co-author of **five publications** in machine learning, cybersecurity and blockchain.
 
-### Android Development:
-- **Languages & Tools:**  
-  Jetpack Compose (Kotlin), Flutter
+[Intrusion detection](https://devgabby.vercel.app/research/intrusion-detection) | [Android document sharing](https://devgabby.vercel.app/research/android-document-sharing) | [Deep learning survey](https://devgabby.vercel.app/research/deep-learning-big-data) | [Blockchain messaging](https://devgabby.vercel.app/research/blockchain-message-delivery) | [Document management](https://devgabby.vercel.app/research/blockchain-document-management).
 
-### Linux & Networking:
-- **Operating Systems:**  
-  Linux Systems
-- **Networking:**  
-  Basic networking knowledge (CCNA certified)
+## GitHub activity
 
----
 
-## 🌟 Notable Projects:
-- **Frontend & Backend Applications:**  
-  Developed multiple full-stack applications using React.js, Node.js, PHP, and Python-based frameworks.
-- **Blockchain:**  
-  Built secure and optimized smart contracts using Solidity for various decentralized applications.
-- **Machine Learning:**  
-  Worked on image processing, NLP models, and developed intelligent solutions with TensorFlow, PyTorch, and other tools.
 
----
+[![Public GitHub statistics](https://github-stats-extended.vercel.app/api?username=codewithgabriel&show_icons=true&hide_border=true&hide_rank=true&theme_light=light_github&theme_dark=dark_github)](https://github.com/codewithgabriel?tab=repositories)
 
-## 📜 Research & Academic Contributions:
-Published **4 research papers** in collaboration with my academic supervisor, focusing on the intersection of technology and innovation. My work includes contributions to **machine learning** and its practical applications in various fields.
-  
----
+Public-only statistics; private client work is represented through the case studies above. Official GitHub Achievements appear separately on my profile when earned.
 
-## 🧠 Interests:
-**Quantum Mechanics & Cosmology:**  
-  In my spare time, I enjoy exploring the mysteries of the universe, studying quantum mechanics and astrophysics.
+## Work with me
 
----
+Based in **Abuja, Nigeria**; open to remote work and relocation within Nigeria. Interested in Full Stack, Backend, Platform and Applied AI/ML engineering roles.
 
-## 🎯 What I'm Looking For:
-I am always looking for exciting opportunities to apply my skills in innovative projects, whether in **software development**, **blockchain**, **machine learning**, or **research**. If you're seeking a passionate developer with a broad technical background and a drive to learn, feel free to connect with me.
-
----
-
-## 📫 Contact Me:
-**Email:** olatoyeolaide@gmail.com
-**LinkedIn:** [Olaide Gabriel](https://linkedin.com/in/olatoye-olaide-gabriel-961b591b0)
-
-Let's build something amazing together!
+[Portfolio and case studies](https://devgabby.vercel.app) | [LinkedIn](https://www.linkedin.com/in/olatoye-olaide-gabriel-961b591b0/)
