@@ -33,14 +33,6 @@ First Class B.Sc. Computer Science, LAUTECH; co-author of **five publications** 
 
 [Intrusion detection](https://devgabby.vercel.app/research/intrusion-detection) | [Android document sharing](https://devgabby.vercel.app/research/android-document-sharing) | [Deep learning survey](https://devgabby.vercel.app/research/deep-learning-big-data) | [Blockchain messaging](https://devgabby.vercel.app/research/blockchain-message-delivery) | [Document management](https://devgabby.vercel.app/research/blockchain-document-management).
 
-## GitHub activity
-
-
-
-[![Public GitHub statistics](https://github-stats-extended.vercel.app/api?username=codewithgabriel&show_icons=true&hide_border=true&hide_rank=true&theme_light=light_github&theme_dark=dark_github)](https://github.com/codewithgabriel?tab=repositories)
-
-Public-only statistics; private client work is represented through the case studies above. Official GitHub Achievements appear separately on my profile when earned.
-
 ## Work with me
 
 Based in **Abuja, Nigeria**; open to remote work and relocation within Nigeria. Interested in Full Stack, Backend, Platform and Applied AI/ML engineering roles.
